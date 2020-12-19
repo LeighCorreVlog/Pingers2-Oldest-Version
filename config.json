@@ -1,6 +1,4 @@
 {
-  "token": "NzY4ODIwOTU2NzQzMzM1OTQ2.X5GCUA.lS_lFHafXWBRld9tP48HphqsUZo",
-  "prefix": "/",
-  "mongoPath": "",
-  "redisPath": ""
+  "token": "",
+  "prefix": "/"
 }
